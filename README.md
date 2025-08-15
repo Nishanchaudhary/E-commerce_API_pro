@@ -4,6 +4,9 @@ A **production-ready** E-commerce REST API built with **Django**, **Django REST 
 This API provides endpoints for **user management, products, cart, orders, payments, reviews, notifications, and search** with rate-limiting and API documentation.
 
 ---
+# Project Demo
+
+[🎥 Watch Demo Video](ecommerce_API_pro.mp4)
 
 ## 🚀 Features
 
