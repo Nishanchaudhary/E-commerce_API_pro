@@ -6,7 +6,7 @@ This API provides endpoints for **user management, products, cart, orders, payme
 ---
 # Project Demo
 
-[🎥 Watch Demo Video](ecommerce_API_pro.mp4)
+[🎥 Watch Demo Video](ecommerse_API_pro.mp4)
 
 ## 🚀 Features
 
